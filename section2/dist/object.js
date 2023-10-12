@@ -1,3 +1,4 @@
+"use strict";
 const objectTest = {
     name: "安藤",
     age: 25

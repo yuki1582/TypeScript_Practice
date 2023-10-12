@@ -1,3 +1,4 @@
+"use strict";
 const memberAC = {
     name: "aaaa",
     age: 25,
